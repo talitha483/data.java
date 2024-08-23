@@ -20,6 +20,7 @@ public class KaryawanTester {
         karyawan rudi = new karyawan(9, "rudi", "kesiswaan", "jember");
         karyawan suna = new karyawan(7, "suna", "bk", "mojokerto");
         karyawan yasmin = new karyawan(9, "yasmin", "sapras", "sidoarejo");
+        karyawan sunarto = new karyawan(9, "sunarto", "sapras", "jombang");
 
         tia.print();
         alex.print();
