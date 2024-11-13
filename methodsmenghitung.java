@@ -20,7 +20,7 @@ public class methodsmenghitung {
     public static int kali (int x,int y){
         return x*y;
     }
-    public static double bagi (int x,int y){
+    public static double bagi (double x,double y){
         return x/y;
     }
 }
